@@ -1,0 +1,6 @@
+{
+  "name": "Dallas Movie Buddies",
+  "description": "Find movie buddies in Dallas, Texas. Meet up with other cinephiles to watch movies at favorite theaters and hang out after the show.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
